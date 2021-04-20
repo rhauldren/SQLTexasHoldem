@@ -1,6 +1,5 @@
 # sqlympics
 
-<img src='images/schema.png'></img>
 
 
 ## Instructions
