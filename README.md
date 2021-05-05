@@ -1,6 +1,6 @@
 # sqlympics
 
-![schema](images/schema.png)
+![schema](schema.png)
 
 ## Instructions
 
