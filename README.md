@@ -2,6 +2,10 @@
 
 ![schema](schema.png)
 
+## The Goal
+
+Build a SQL application that predicts the winning percentage of every starting 2 cards in Texas Hold 'Em for games of 2 - 10 players. 
+
 ## Instructions
 
 1. To run the code on sql server in a docker container execute `./build_docker_containter.sh`.  (Connection instructions will be printed in the termainal output.)
