@@ -1,4 +1,4 @@
-# sqlympics
+# Modeling Texas Hold 'em using SQL and Docker
 
 ![schema](schema.png)
 
